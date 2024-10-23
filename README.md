@@ -1,4 +1,4 @@
-### Date:
+
 # Ex-4: ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 
